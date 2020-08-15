@@ -8,6 +8,10 @@ h1 {
     
 }
 
+h3 {
+    text-align: center;
+}
+
 body {
     background-color: #efeee7;
     font-family: Georgia, 'Times New Roman', Times, serif;
