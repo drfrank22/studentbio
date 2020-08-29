@@ -4,7 +4,6 @@ h1 {
     background-color: #333333;
     margin: 0px;
     padding: 0px;
-    font-size: 28px;
     
 }
 
@@ -20,21 +19,7 @@ body {
     padding: 0px;
 }
 
-#main-bio {
-    float: left;
-    width: 45%;
-    padding: 10px;
-}
-
-.contact-info {
-    float: left;
-}
-
-
-#bio-image {
-    float: left;;
-}
-
-#main-bio {
-    float: left;
+main {
+    margin: 50px;
+    padding: 25px;
 }
